@@ -1,3 +1,4 @@
+//Без звездочки
 #include <stdio.h>
 #include "omp.h"
 
