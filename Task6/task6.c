@@ -5,7 +5,7 @@
 
 #define N 1000
 
-//! Еhe algorithm used is the sieve of eratosthenes
+//! The algorithm used is the sieve of eratosthenes
 //! There is an array of numbers: 2 to N, in the process of algorithm all sifted numbers will be replaced with '0'
 int main() {
     int a[N - 1];
